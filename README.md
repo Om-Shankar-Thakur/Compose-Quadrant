@@ -36,6 +36,6 @@ The main components of the UI include:
 
 - **ComposableInfoCard**: A custom composable function representing an information card. Each card has a title, description, and a background color that distinguishes it from others.
 
-## UI Screenshot
+## UI 
 
-![UI Screenshot](/screenshots/screenshot.png)
+![UI Screenshot](/compose-quadrant.png)
